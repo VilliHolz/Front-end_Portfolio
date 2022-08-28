@@ -1,0 +1,14 @@
+.row{
+    padding: 20px;
+}
+div{
+    background-color: white;
+}
+h1,h3{
+    display: inline;
+}
+#experiencialaboral{
+    background-color:lightblue;
+    border-radius: 10px;
+    margin-top: 6%;
+}
